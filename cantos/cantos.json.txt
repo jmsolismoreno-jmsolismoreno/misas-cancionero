@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1,
+    "titulo": "VEN A LA FIESTA",
+    "referencia": "1.1",
+    "contenido": "RE  LA Sim\nVEN A LA FIESTA, SOL Mim LA\nES EL MOMENTO DE  REZAR Y DE CANTAR.\n\nRE  LA Sim\nHOY CELEBRAMOS SOL\nQUE EN NUESTRAS VIDAS LA RE\nDIOS VIVIENDO SIEMPRE ESTÁ.\n\nSOL LA RE Sim\n1. Ven a la fiesta a participar;\nSOL LA  Sim\nNos hace falta tu calor.\nSOL LA Sim\nJesús te invita para celebrar su amor.\nDO LA\nAtento tú estarás a responder por eso.\n\nSOL LA  RE Sim\n2. Ven a la fiesta para recordar\nSOL LA Sim\nMilagros que renacen hoy:\nSOL LA Sim\nJesús hoy viene para con todos estar\nDO LA\nY su vida y su cruz es nuestra luz por eso"
+  },
+  {
+    "id": 2,
+    "titulo": "VINE A ALABAR A DIOS",
+    "referencia": "1.2",
+    "contenido": "SOL RE Mim\nVINE A ALABAR A DIOS\nDO Lam DO  RE\nVINE A ALABAR A DIOS\nSOL RE Mim\nVINE A ALABAR SU NOMBRE\nDO RE  SOL\nVINE A ALABAR A DIOS\n\nDO RE\nEl vino a mi vida\nSOL Mim\nen un día muy especial\nDO RE\nCambio mi corazón\nSOL Mim\npor un nuevo corazón\nDO RE SOL Mim\nY esa es la razón por la que digo que\nDO RE  SOL\nVine a alabar a Dios"
+  },
+  {
+    "id": 3,
+    "titulo": "DIOS ESTA AQUI",
+    "referencia": "1.3",
+    "contenido": "DO  SOL  Lam\nDIOS ESTA AQUÍ\nFA SOL DO\nTAN CIERTO COMO EL AIRE QUE RESPIRO\nFA SOL DO – MI- Lam\nTAN CIERTO COMO LA MAÑANA SE LEVANTA\nFA SOL\nTAN CIERTO COMO QUE ESTE CANTO\nDO\nLO PUEDES OIR.\n\nSOL\n1.- Lo puedes sentir\nFA SOL DO\nmoviéndose entre los que aman\nSOL\nLo puedes oír\nFA SOL DO\ncantando con nosotros aquí.\nSOL\nLo puedes llevar\nFA SOL DO\ncuando por esa puerta salgas.\nSOL\nLo puedes guardar\nFA SOL DO\nmuy dentro de tu corazón.\n\nSOL\n2.- Lo puedes notar\nFA\njunto a ti\nSOL DO\nen cualquier momento.\nSOL\nLe puedes hablar\nFA SOL DO\nde esa vida que le quieres dar.\nSOL\nNo dudes ya más\nFA\nél es Dios\nSOL DO\ny nos perdona a todos.\nSOL\nJesús está aquí\nFA SOL DO\nsi tú quieres lo puedes seguir."
+  },
+  {
+    "id": 4,
+    "titulo": "VENIMOS A TI",
+    "referencia": "1.4",
+    "contenido": "DO FA SOL\nVENIMOS A TI OH SEÑOR\nDO Lam\nCON EL ALMA LLENA DE GOZO\nFA SOL\nY JUNTOS QUEREMOS DARTE GRACIAS (FA SOL DO)\n\nDO FA\nPor los días que nos das,\nSOL DO\nte damos gracias,\nDO FA\npor los frutos de la tierra,\nSOL DO\nte damos gracias,\nMI Lam  MI Lam\npor el trabajo, las alegrías de la vida,\nFA SOL\nte damos gracias.\n\nPor tu Palabra, te damos gracias,\nporque nos das Tu Vida, te damos gracias,\ny por la Iglesia que a todos nos une,\nte damos gracias."
+  },
+  {
+    "id": 5,
+    "titulo": "EL ESTA AQUI",
+    "referencia": "1.5",
+    "contenido": "MI LA SI7ª MI\nVamos con gozo alabemos a nuestro Señor.\nMI LA SI7ª MI\nCanta su nombre, da gloria a la gloria de Dios\n\nLA SI7ª\nEL ESTA AQUI DONDE HAYA\nMI Do#m\nDOS O MAS EL ESTA AQUI,\nLA  SI7ª MI\nEL ESTA AQUÍ NOS HA SALVADO.(bis)\n\nDeja tus penas que tienes delante a Jesús.\nDeja tus sombras que quiere llenarte de luz.\nCanta alabanzas te quiere llenar con su amor,\nsalta de gozo tu hermano es el Hijo de Dios.\n\nVive la vida que Cristo te viene a ofrecer,\nllena tu alma revive lo que hay en tu ser.\nSal de tu miedo tu angustia El la quiere vencer,\nabre tu puerta, despierta a la vida otra vez."
+  },
+  {
+    "id": 6,
+    "titulo": "PREPARAD EL CAMINO",
+    "referencia": "1.6",
+    "contenido": "SOL Mim Sim RE\nPREPARAD EL CAMINO AL SEÑOR\nSOL Mim  Sim  DO  RE  SOL\nY ESCUCHAD LA PALABRA DE DIOS.\n\nSOL Mim\nVoz que clama en el desierto\nSim RE\npreparad el camino al Señor\nSOL Mim\nhaced rectas todas sus sendas\nSim DO  RE SOL\npreparad el camino al Señor.\n\nTodo valle ha de ser alzado\ntodo monte ha de ser abatido\nenderezad los torcidos caminos\npreparad el camino al Señor.\n\nVoz que clama en el desierto\npreparad el camino al Señor.\n\nDesterrad la mentira por siempre.\nPreparad el camino al Señor."
+  },
+  {
+    "id": 7,
+    "titulo": "IGLESIA PEREGRINA",
+    "referencia": "1.7",
+    "contenido": "Todos unidos formando un solo cuerpo\nun pueblo que en la pascua nació,\nmiembros de Xto en sangre redimidos,\nIglesia peregrina de Dios.\n\nVive en nosotros la fuerza del Espíritu\nque el Hijo desde el Padre envió.\nÉl nos empuja, nos guía y alimenta,\nIglesia peregrina de Dios.\n\nSOMOS EN LA TIERRA SEMILLA DE OTRO REINO,\nSOMOS TESTIMONIO DE AMOR,\nPAZ PARA LAS GUERRAS Y LUZ PARA LAS SOMBRAS.\nIGLESIA PEREGRINA DE DIOS.\n\nPAZ PARA LAS GUERRAS Y LUZ PARA LAS SOMBRAS\nIGLESIA PEREGRINA DE DIOS\n\nTodos unidos en un solo bautismo,\nunidos en la misma comunión,\ntodos viviendo en una misma casa,\nIglesia peregrina de Dios.\n\nTodos prendidos en una misma suerte,\nligados a la misma salvación.\nSomos un cuerpo y Xto es la cabeza.\nIglesia peregrina de Dios."
+  },
+  {
+    "id": 8,
+    "titulo": "NUEVA GENERACION",
+    "referencia": "1.8",
+    "contenido": "Rem LA Rem\nYo vengo del sur y del norte del este y oeste, de todo lugar.\nRem LA Rem\nCaminos y vida recorro llevando socorro, queriendo ayudar.\n\nSolm Rem\nMensaje de paz es mi canto y cruzo montañas y voy hasta el fin.\nSolm Rem\nEl mundo no me satisface lo que busco es la paz\nLA Rem\nlo que quiero es vivir.\n\nSolm Rem\nAL PECHO LLEVO UNA CRUZ\nSolm Rem LA Rem\nY EN MI CORAZON LO QUE DICE JESUS.(bis)\n\nYo sé que no tengo la edad ni la madurez de quien ya vivió.\nMas sé que es de mi propiedad buscar la verdad y gritar con mi voz.\n\nEl mundo va herido y cansado de un negro pasado de guerras sin fin.\nHoy teme la bomba que hizo y la fe que deshizo y espera por mí.\n\nYo quiero dejar mi recado, no tengo pasado pero tengo amor.\nEl mismo del crucificado que quiso dejarnos un mundo mejor.\n\nYo digo a los indiferentes que soy de la gente que cree en la cruz,\ny creo en la fuerza del hombre que sigue el camino de Cristo Jesús."
+  },
+  {
+    "id": 9,
+    "titulo": "BENDIGAMOS AL SEÑOR",
+    "referencia": "1.9",
+    "contenido": "SOL Mim\nBendigamos al Señor, Dios de toda la creación,\nDO RE\npor habernos revelado su amor.\n\nSOL Mim\nSu bondad y su perdón y su gran fidelidad,\nDO RE SOL\npor los siglos de los siglos durarán.\n\nDO RE SOL Mim\nEL ESPÍRITU DE DIOS HOY ESTÁ SOBRE MÍ,\nDO RE SOL\nY ÉL ES QUIEN ME HA UNGIDO A PROCLAMAR,\nDO RE  SOL  Mim\nLA BUENA NUEVA A LOS MÁS POBRES,\nDO RE\nLA GRACIA DE SU SALVACIÓN. (BIS) (DO RE SOL)-------(el BIS)\n\nEnviados con poder y en el nombre de Jesús,\na sanar a los enfermos del dolor;\na los ciegos dar visión, a los pobres la verdad\ny a los presos y oprimidos libertad.\n\nCon la fuerza de su amor y de la resurrección\nanunciamos llega ya la salvación.\nQue ni el miedo ni el dolor, ni la duda o la opresión,\nborrarán la paz de nuestro corazón."
+  },
+  {
+    "id": 10,
+    "titulo": "HOY EL SEÑOR RESUCITO",
+    "referencia": "1.10",
+    "contenido": "DO FA-DO FA-DO\nHoy el Señor resucitó\nMim  Rem-SOL7ª\ny de la muerte nos salvó.\n\nDO -7ª FA -m\nALEGRIA Y PAZ HERMANOS\nDO  Lam Rem SOL7ª DO\nQUE EL SEÑOR  RESUCITO\n\nPorque esperó Dios le libró\ny de la muerte lo sacó.\n\nEl pueblo en El vida encontró\nla esclavitud ya terminó.\n\nLa luz de Dios en El brilló\nla nueva vida nos llenó"
+  },
+  {
+    "id": 11,
+    "titulo": "DIOS ESPERA EN EL ALTAR",
+    "referencia": "1.11",
+    "contenido": "RE SOL RE LA\nDios espera en el altar vamos todos hasta El,\nSOL RE\nllevemos nuestra sonrisa,\nLA RE\nla inquietud nuestra hambre y nuestra sed.\n\nDios sobre todo es amor\nquiere nuestra salvación,\nque juntos nos salvemos\npara ir de la mano hasta Dios.\n\nRE SOL RE\nAl entrar en la casa de Dios\nLA\nlibre de rencores he de entrar\nSOL RE\nllevar el alma tranquila\nLA RE\ny pensar que al salir más he de amar\n\nRE SOL LA RE\nESE ES CRISTO, ESE ES DIOS,\nRE SOL LA RE\nESE ES CRISTO, NUESTRO DIOS.(bis)\n\nRE LA RE\nVengo a tu altar porque tengo sed de ti,\nSOL LA\nporque tu mirar a mi alma da la fe,\nSim SOL RE\nmírame Señor, no dejes de mirar\nLA\ny mi alma contigo irá se salvará."
+  },
+  {
+    "id": 12,
+    "titulo": "UN NUEVO SITIO DISPONED",
+    "referencia": "1.12",
+    "contenido": "RE SOL RE\nUn nuevo sitio disponed para un amigo más.\nSOL LA\nUn poquitín que os estrechéis y se podrá sentar.\n\nRE SOL RE\nPara eso sirve la amistad si llega la ocasión,\nSOL RE SOL RE\nhablémosle con libertad y con el corazón,\nSOL RE SOL RE\nel con su amor nos pagará y alegrará la reunión.\n\nRE SOL RE\nUn nuevo sitio disponed para un amigo más,\nun poquitín que os estrechéis un poquitín que os estrechéis\nSOL LA\ny se podrá acomodar.\n\nRE SOL RE\nPara eso sirve la amistad, para estar en reunión,\nSOL RE SOL RE\nhablémosle con libertad y con el corazón,\nSOL RE SOL RE\nel con su amor nos pagará y nos dará calor,\nSOL RE  SOL RE\nun nuevo sitio disponed para el, para el."
+  },
+  {
+    "id": 13,
+    "titulo": "BUSQUEMOS UNIDOS",
+    "referencia": "1.13",
+    "contenido": "DO FA DO\nAquí estamos para vivir unidos\nDO FA SOL\nbuscando todos los criterios aunar\nDO FA DO\ny lo importante es lo que daré\nFA DO SOL DO\namor y vida, y la unidad hallaré.\n\nFA SOL DO Lam\nFUERA DE AQUI SE PIENSA QUE ES IMPOSIBLE LLEGAR\nRem SOL\nA QUE FORMEMOS UNIDOS UNA GRAN COMUNIDAD\nFA SOL\nPERO NOSOTROS SOÑAMOS\nDO Lam\nPODER LLEGAR A FORMAR\nRE SOL LA\nUNIDAD DE LOS HOMBRES Y CREYENDO LLEGARA.\n\nTu afán y el mío han de estar unidos\ny nuestro esfuerzo ha de ser realidad\nno demos gritos, discurso irreal\ny luchemos fuerte por vivir la unidad"
+  },
+  {
+    "id": 14,
+    "titulo": "UN A VE CON LAS ALAS DE CRISTAL",
+    "referencia": "1.14",
+    "contenido": "DO SOL Lam\nDesde la eternidad nuestro buen Dios\nFA SOL DO\nse goza en nosotros cada día.\n\nDO SOL Lam\nPiensa en los dos es su mejor regalo\nFA SOL\nes compartir su vida en nuestras vidas.\n\nFA SOL7ª Mim- Lam\nNUESTRA AMISTAD SE TRANSFORMO\nRem SOL7ª DO\nEN UN AVE CON LAS ALAS DE CRISTAL\nFA SOL7ª Mim- Lam\nUN ROSAL EN MEDIO DEL JARDIN\nRem FA Lam-  DO\nUNA ILUSION HECHA REALIDAD.\n\nLa brisa que unió nuestros caminos,\nalgo especial nos hizo descubrir\nel amor que hemos ido construyendo\nme transformó en ti y a ti en mí.\n\nNo quiero prometer, solo es amarte\nla meta que propongo en mi camino.\nSi me dejas solo crees que es fácil\nconstruir la unidad que Dios nos hizo."
+  },
+  {
+    "id": 15,
+    "titulo": "ESTAMOS REUNIDOS PARA ALABARTE",
+    "referencia": "1.15",
+    "contenido": "Lam MI7ª\nEstamos reunidos para alabarte\nLam\ny recibir tu santa bendición.(bis)\n\nPaséate Señor por la congregación\nMI7ª Lam\ny fluye en nuestro corazón.(bis)\n\nLam\nY DIME A LO QUE TU VINISTES\nMI7ª Lam\nYO VINE A ALABAR A DIOS(bis)\nRem Lam\nALELUYA, ALELUYA,\nMI7ª Lam\nALELUYA, YO VINE A ALABAR A DIOS(bis)\n\nLam MI7ª\nPero que lindo que lindo es el Señor\nMI7ª Lam\nPero que lindo que lindo es el Señor (bis)"
+  },
+  {
+    "id": 16,
+    "titulo": "TEN PIEDAD",
+    "referencia": "2.1",
+    "contenido": "Lam SOL Lam Lam SOL Lam\nTen piedad, ten piedad.  Ten piedad, ten  piedad.(bis)\n\nRem Lam\nTEN PIEDAD, SEÑOR TEN PIEDAD,\nMI7ª Lam\nSOY PECADOR, TEN PIEDAD.(bis)\n\nRem SOL DO – MI7ª\nY de mí, Cristo apiádate,  contra Ti yo pequé.(bis)"
+  },
+  {
+    "id": 17,
+    "titulo": "TEN PIEDAD",
+    "referencia": "2.2",
+    "contenido": "DO\nOH SEÑOR TEN PIEDAD\nSOL7ª\nDE NOSOTROS TEN PIEDAD\nDO\nOH SEÑOR TEN PIEDAD\nSOL7ª\nDE NOSOTROS TEN PIEDAD\n\nFA SOL  DO  SOL\nPiedad Señor, Piedad Señor\n\nDO\nOH SEÑOR TEN PIEDAD........\n\n(Final) DO\n....PIEDAD SEÑOR"
+  },
+  {
+    "id": 18,
+    "titulo": "SEÑOR TEN PIEDAD",
+    "referencia": "2.3",
+    "contenido": "RE Fa#m\nSEÑOR, TEN PIEDAD,\nMim LA\nOTRA VEZ HE PECADO CONTRA TI.(bis)\n\nSOL Fa#m\nSi pequé contra mi hermano ten piedad de mí Señor,\nMim LA\nhoy estoy arrepentido mi castigo es su dolor.\n\nSOL Fa#m\nPero siento que este mundo ya no cree en Tu perdón\nMim LA\nhoy te pido que nos guíes a Tu amor."
+  },
+  {
+    "id": 19,
+    "titulo": "TEN PIEDAD",
+    "referencia": "2.4",
+    "contenido": "Lam Mi7ª Lam\nTen piedad de mí Señor, Ten Piedad, Ten Piedad\nMi7ª Lam\nTen piedad de mí Señor, ten piedad de mí\n\nCristo, Cristo, ten piedad\nTen Piedad, Ten Piedad\nCristo, Cristo, ten piedad, ten Piedad de mí\n\nTen piedad de mí Señor, Ten Piedad, Ten Piedad\nTen piedad de mí Señor, ten piedad de mí"
+  },
+  {
+    "id": 20,
+    "titulo": "EL AMOR SE APARTO DE MI",
+    "referencia": "2.5",
+    "contenido": "DO FA DO  SOL\nEL AMOR DE MI SE APARTO, SEÑOR, TEN PIEDAD.\n\nDO FA DO  SOL DO\nEL AMOR DE MI SE APARTO, SEÑOR, TEN PIEDAD DE MI.\n\nFA DO\nQuiero volver al Padre abrazarle al llegar\nSOL DO\nquiero sentir todo su amor.(bis)"
+  },
+  {
+    "id": 21,
+    "titulo": "HOY SEÑOR VENGO ARREPENTIDO",
+    "referencia": "2.6",
+    "contenido": "DO Rem\nHoy Señor vengo arrepentido\nSOL7ª DO\nde mis pecados, traigo en mis manos\nLam Rem\naquel pasado que hoy quisiera\nSOL7ª DO\ny tal vez pudiera olvidar.\n\nQuisiera dejar de ocultarme\ny dar la cara como Tú haces\nir por el mundo sin avergonzarme\ny estar pensando en ti.\n\nSolo quiero que también lo intentes\ncon otra gente más oprimida\nsalvar su vida, su libertad,\ny saber de veras amar."
+  },
+  {
+    "id": 22,
+    "titulo": "ALELUYA",
+    "referencia": "3.1",
+    "contenido": "DO  Mim FA DO\nAleluya,  Alelu, Aleluya\nFA  DO  RE SOL\nAleluya  Aleluya(bis)\n\n(SOL  DO)"
+  },
+  {
+    "id": 23,
+    "titulo": "JESUS ES SEÑOR",
+    "referencia": "3.2",
+    "contenido": "LA MI LA MI\nJesús es, Jesús es Señor\nRE MI LA  Do#m\nJesús es, Jesús es Señor\nRE MI LA\nJesús es, Jesús es Señor\n\nGloria a Dios, Gloria, Gloria a Dios(3 Veces)\n\nAleluya, Aleluya(3 Veces)"
+  },
+  {
+    "id": 24,
+    "titulo": "CANTA  ALELUYA",
+    "referencia": "3.4",
+    "contenido": "Lam  SOL Lam SOL MI\nCanta Aleluya al Señor Canta Aleluya al Señor\nFA SOL Rem Lam SOL Lam\nCanta Aleluya Canta Aleluya Canta Aleluya al Señor."
+  },
+  {
+    "id": 25,
+    "titulo": "ALELUYA(Nico)",
+    "referencia": "3.3",
+    "contenido": "DO  SOL  MI  Lam\nALELUYA, ALELUYA\nFA DO  SOL  DO\nALELUYA, ALELUYA, ALELUYA(BIS)\n\nDO  SOL MI  Lam\nSi sientes que Cristo en ti vivo está\nFA DO  SOL  DO\nGrita fuerte en tu alma.  ¡Aleluya!\n\nSi piensas que el mundo aún puede cambiar\ngrita fuerte en tu alma  ¡Aleluya!\n\nSi toda la tierra espera al Salvador\nAllanad los caminos al Señor"
+  },
+  {
+    "id": 26,
+    "titulo": "HABLA SEÑOR",
+    "referencia": "3.5",
+    "contenido": "LA MI\nHabla Señor que tu hijo escucha.\nRE MI LA\nHabla Señor, te quiero escuchar.\n\nMI RE LA\nHabla Señor, danos tu mensaje.\nMI RE LA\nHabla Señor, danos tu verdad."
+  },
+  {
+    "id": 27,
+    "titulo": "SABER QUE VENDRAS",
+    "referencia": "4.1",
+    "contenido": "DO FA Mim Lam\nEn este mundo que Cristo nos da\nDO FA SOL\nhacemos la ofrenda del pan.\n\nDO FA Mim Lam\nEl pan de nuestro trabajo sin fin\nDO FA SOL\ny el vino de nuestro cantar.\n\nDO FA Mim Lam\nTraigo ante Ti nuestra justa inquietud\nDO FA SOL\namar la justicia y la paz.\n\nFA SOL DO Lam\nSABER QUE VENDRAS, SABER QUE ESTARAS\nFA SOL DO\nPARTIENDO A LOS POBRES TU PAN.(bis)\n\nLa sed de todos los hombres sin luz\nla pena y el triste llorar,\nel odio de los que mueren sin fin\ncansados de tanto luchar.\n\nEn la patena de nuestra oblación,\nacepta la vida Señor."
+  },
+  {
+    "id": 28,
+    "titulo": "TUYO SOY",
+    "referencia": "4.2",
+    "contenido": "DO Lam DO Lam\nYo no soy nada y del polvo naci\nRem SOL7ª\npero tu me amas y moriste por mi\nDO Lam DO Lam\nante la cruz solo puedo exclamar\nRem SOL7ª\n\nTuyo soy, tuyo soy...\n\nDO Lam\nTOMA MIS MANOS, TE PIDO\nRem SOL7ª\nTOMA MIS LABIOS, TE AMO\nDO Lam\nTOMA MI VIDA, OH PADRE\nRem  SOL7ª  DO\nTUYO SOY TUYO SOY\n\nCuando de rodillas te miro, Jesús\nveo tu grandeza y mi pequeñez\nque puedo darte yo solo mi ser\n\nTuyo soy, tuyo soy..."
+  },
+  {
+    "id": 29,
+    "titulo": "BENDITO SEAS SEÑOR",
+    "referencia": "4.3",
+    "contenido": "DO FA\nQueremos que estas ofrendas sean\nSOL DO -MI\nuna vida de lucha y amor para ti,\nLam Rem\ny así recordar día a día el amor\nSOL7ª DO -FA\ncon que diste tu vida y con ella a Dios.\n\nDO FA\nDanos la luz para que esta ofrenda\nSOL DO -MI\nsea fruto de nuestra labor\nLam Rem\ny así recordar día a día el amor\nSOL7ª DO -FA\ncon que diste tu vida y con ella a Dios.\n\nDO FA\nBENDITO SEAS, SEÑOR.\nSOL DO-MI\nBENDITO SEAS, SEÑOR.\n\nLam Rem\nSEAS POR SIEMPRE, SEÑOR,\nSOL7ª DO\nBENDITO DIOS.(BIS)"
+  },
+  {
+    "id": 30,
+    "titulo": "TE VENGO A OFRECER",
+    "referencia": "4.4",
+    "contenido": "DO SOL7ª\nTe vengo a ofrecer te vengo a ofrecer oh mi Salvador\nDO\nEl vino y el pan el vino y el pan de nuestro sudor.\n\nDO7ª FA -m\nTe vengo a ofrecer te vengo a ofrecer con todo mi ser\nDO SOL7ª DO\nel vino y el pan la tierra y el sol y mi corazón.\n\nSOL7ª DO\nYo quiero cantar yo quiero cantar de gozo y de paz.\n\nSOL7ª DO\nYo quiero llorar, yo quiero llorar de felicidad.\n\nDO7ª FA -m\nTe vengo a ofrecer Te vengo a ofrecer con todo mi ser\nDO SOL7ª DO\nel vino y el pan la tierra y el sol y mi corazón."
+  },
+  {
+    "id": 31,
+    "titulo": "TE OFERECERE Y ALABARE",
+    "referencia": "4.5",
+    "contenido": "DO Solm Rem\nTe ofreceré una palabra, un libro abierto, Señor\nDO\nque hable de amor.\n\nDO Solm Rem\nTe ofreceré en mi trabajo todo mi esfuerzo Señor,\nDO SOL\ny mi sudor, te ofreceré.\n\nDO  SOL Lam\nTE OFRECERE  LA SONRISA DE UN NIÑO\nFA  Rem SIb  SOL\nTE ALABARE  PORQUE YA SALE EL SOL.\n\nDO  SOL Lam\nTE OFRECERE  LAS MIRADAS INQUIETAS\nFA  Rem SIb  SOL\nTE CANTARE  PORQUE TU ERES MI DIOS.\n\nTe ofreceré en mi tristeza mi pena y llanto Señor,\ny mi dolor.\n\nTe ofreceré en mi alegría todo mi gozo Señor\ny mi ilusión,\nte ofreceré."
+  },
+  {
+    "id": 32,
+    "titulo": "HACED UN LUGAR EN VOSOTROS",
+    "referencia": "4.6",
+    "contenido": "Mim DO RE Mim\nHaced un lugar en vosotros que pronto voy a llegar\nMim DO RE Mim\nEl cuerpo y la sangre que traigo a todos voy a entregar\nDO  RE DO RE Mim\nY cada vez que así lo hagáis, pensad\nDO RE Mim\nQue es a mí a quien recordáis.(bis)"
+  },
+  {
+    "id": 33,
+    "titulo": "QUE TE PUEDO DAR",
+    "referencia": "4.7",
+    "contenido": "SOL RE Mim DO\nQue te puedo dar que no me hayas dado tu\nSOL RE DO RE\nQue te puedo decir que no me hayas dicho tu\nSOL RE Mim DO\nQue puedo hacer por ti si yo no puedo hacer nada\nSOL RE DO  RE\nSi yo no puedo hacer nada Si no es por ti mi Dios\n\nDO RE SOL  Mim\nTodo lo que se, todo lo que soy\nDO RE DO  SOL\nTodo lo que tengo es tuyo"
+  },
+  {
+    "id": 34,
+    "titulo": "EL PAN Y EL VINO",
+    "referencia": "4.8",
+    "contenido": "Lam\nBajo el calor del horno\nMI\ntrabaja duro el panadero\nda forma a la masa de pan\ny todo su amor\nLam - 7ª\nlo fija en sus dedos.\n\nRem\nAquí está mi pan Señor,\nLam\nmi hacienda y todo mi esfuerzo\nMI\ntodo te lo ofrezco a Ti\nLam (-7ª)\nporque todo a Ti te lo debo.(bis)\n\nBajo el sol de ardientes rayos\ntrabaja duro el labrador\nhace surcos con sus manos\ny alaba Tu nombre con su sudor.\n\nAquí está mi vino Señor\nmi hacienda y todo mi campo\ntodo te lo ofrezco a Ti\nporque todo Tú me lo has dado.(bis)"
+  },
+  {
+    "id": 35,
+    "titulo": "RECIBE OH DIOS",
+    "referencia": "4.9",
+    "contenido": "LA RE\nRecibe ¡oh Dios! el pan que te ofrecemos\nMI LA\nluego será el cuerpo del Señor.\n\nLA7ª RE -m\nTambién acepta nuestro, nuestro sacrificio,\nLA MI LA\nnuestra oración y nuestro corazón.\n\nRecibe ¡oh Dios! el vino que ofrecemos\nluego será la sangre del Señor,\ntambién acepta nuestro, nuestro sacrificio,\nnuestra oración y nuestro corazón.\n\nRE MI LA\nRecíbelos Señor por nuestras culpas\nRE MI LA\npor los que están aquí junto a tu altar\nRem LA\npor los cristianos vivos y difuntos\npor todo el mundo,\nMI LA\nrecíbelos Señor, recíbelos.\n\nTómalos Señor son nuestras ofrendas\nque con amor todos venimos a entregar,\nes el esfuerzo y sudor de nuestro trabajo\nes el fruto de nuestro caminar."
+  },
+  {
+    "id": 36,
+    "titulo": "UN NIÑO SE TE ACERCÓ",
+    "referencia": "4.10",
+    "contenido": "LA Mi7ª LA\nUn niño se te acercó aquella tarde.\nRE LA\nSus cinco panes te dio para ayudarte.\nMi7ª LA -\nLos dos hicisteis que ya  no hubiera hambre. (Bis)\n\nLA Mi7ª  LA\nLa tierra, el aire y el sol son tus regalos\nRE LA\ny mil estrellas de luz sembró tu mano.\nMi7ª LA -\nel hombre pone su amor y su trabajo. (Bis)\n\nLA Mi7ª LA\nTambién yo quiero poner sobre tu mesa\nRE LA\nmis cinco panes que son una promesa\nMi7ª LA -\nde darte todo mi amor y mi pobreza(bis)"
+  },
+  {
+    "id": 37,
+    "titulo": "SEÑOR ESTE PAN",
+    "referencia": "4.11",
+    "contenido": "RE LA\nSeñor, este pan, este pan te ofrecemos hoy\nLA-7ª RE\nSeñor este pan, transfórmalo, acéptalo.\n\nRE-7ª SOL\nSeñor tuyo soy transfórmame\nRE LA -7ª RE\nSeñor, este pan, este pan te ofrecemos hoy.\n\nSeñor mi juventud, mi juventud yo te ofrezco hoy\nSeñor mi juventud acéptala, transfórmala\nSeñor tuyo soy transfórmame\nSeñor mi juventud, mi juventud yo te ofrezco hoy\n\nSeñor, nuestras manos, nuestras manos Te ofrecemos hoy\nSeñor nuestras manos transfórmalas, acéptalas\nSeñor tuyo soy transfórmame\nSeñor nuestras manos, nuestras manos Te ofrecemos hoy"
+  },
+  {
+    "id": 38,
+    "titulo": "LA SEMILLA",
+    "referencia": "4.12",
+    "contenido": "LA RE MI\nEn la tierra la sembró el sembrador\nRE MI LA Fa#m –MI-LA  RE LA\nla semilla de tu pan, Señor.\n\nRE MI LA\nY después el viñador trabajó en buena lid\nRE  LA  RE LA  MI LA\ny las tierras ven crecer las espigas y la vid.\n\nLA MI-LA\nEl trigo se molió en el molino\nRE LA\nrompiendo su cuerpo como Tú.\n\nRE MI LA\nLa uva la pisó el hombre en el lagar\nLA\nigual que Tú te dejaste pisar.\n\nY ahora convertido en pan y vino\ntu pueblo la ofrece en el altar,\nconviértelos, oh Dios, son fruto de tu amor\nen tu cuerpo y sangre Señor"
+  },
+  {
+    "id": 39,
+    "titulo": "SANTO ZAIREÑO",
+    "referencia": "5.1",
+    "contenido": "RE SOL RE LA  RE\nSanto, OH Santo, HOSANNA.(bis)\n\nRE SOL RE\nHOSANNA HEY, HOSANNA HEY\nSOL LA RE\nHOSANNA A CRISTO EL SEÑOR.(bis)\n\nRE SOL\nLos cielos y la tierra están llenos\nRE LA\nde tu gloria Señor.\n\nRE SOL\nBendito el que viene en el nombre\nRE LA\nen el nombre tuyo Señor."
+  },
+  {
+    "id": 40,
+    "titulo": "SANTO(2 voces)",
+    "referencia": "5.2",
+    "contenido": "DO Mim Lam\nSanto(5 veces) es el Señor\nFA DO\nllenos están el cielo y tierra de su amor.(bis)\nSOL FA\nBendito el que viene en el nombre\nSOL FA  SOL DO\nel que viene en el nombre del Señor del Señor."
+  },
+  {
+    "id": 41,
+    "titulo": "LOS CIELOS TE PROCLAMAN",
+    "referencia": "5.3",
+    "contenido": "Lam MI\nSanto, Santo, Santo los cielos te proclaman.\n\nLam\nSanto, Santo, Santo es nuestro Rey Yaveh.\n\n-7ª Rem\nSanto, Santo, Santo es el que nos redime.\n\nRem Lam -Porque mi Dios es Santo\nMI Lam\ny la tierra llena de su gloria es(bis).\n\nLam MI\nCIELO Y TIERRA PASARAN,\nLam\nMAS TU PALABRA NO PASARA(bis)\nRem  Lam  MI Lam\nNO,  NO,  NO PASARA, NO, NO, NO,\nRem  Lam MI Lam\nNO,  NO,  NO PASARA.\n\nBendito el que viene en el nombre del Señor,\ndad gloria a Jesucristo el Hijo de David.\n\nHosanna en las alturas a nuestro Salvador.\n\n-Bendito el que viene en el nombre del Señor.(bis)"
+  },
+  {
+    "id": 42,
+    "titulo": "DIOS DEL UNIVERSO",
+    "referencia": "5.4",
+    "contenido": "Lam  Lam Lam\nSANTO,  SANTO ES EL SEÑOR.(bis)\n\nSOL DO MI Lam\nDios del universo cielo y tierra son sus obras.\n\nSOL DO MI Lam\nEres Dios del viento de aquel mar y de sus olas.\n\nSOL DO MI Lam\nBendito el que viene en nombre tuyo y de tu gloria.\n\nSOL DO MI Lam\nHosanna por siempre Tu eres dueño de mi historia."
+  },
+  {
+    "id": 43,
+    "titulo": "SANTO DIOS DEL UNIVERSO(Haendel)",
+    "referencia": "5.5",
+    "contenido": "Lam  Rem  SOL7ª  DO  Lam  Rem\nSanto Santo Santo\nMI Lam\nDios del universo.\n\nLam Rem  SOL7ª DO\nLlenos están el cielo y la tierra\nLam  Rem  MI Lam\nde tu  gloria Señor.\n\nLam  Rem  SOL7ª  DO  Lam  Rem\nHOSANNA HOSANNA HOSANNA\nMI  Lam\nEN EL CIELO(BIS).\n\nLam Rem SOL7ª DO\nBendito el que viene en nombre del Señor."
+  },
+  {
+    "id": 44,
+    "titulo": "ERES MI DIOS",
+    "referencia": "5.6",
+    "contenido": "Santo(4 veces) es el Señor(bis).\n\nSanto(4 veces) eres mi Dios(bis).\n\nLLENOS ESTAN, LLENOS ESTAN EL CIELO Y LA TIERRA DE TU GLORIA SEÑOR\nLLENOS ESTAN LLENOS DE TI\n\nHosanna en el cielo(bis)\nBendito el que viene(4 veces)\nEn nombre de Dios(bis)."
+  },
+  {
+    "id": 45,
+    "titulo": "SANTO ES EL SEÑOR",
+    "referencia": "5.7",
+    "contenido": "SANTO ES EL SEÑOR, DIOS DE LOS HOMBRES ES EL SEÑOR(bis)\n\nLlenos están el cielo y tierra de tu gloria\nel cielo y tierra de tu amor.\n\nEl hizo el mar\nEl hizo el cielo\nhizo la tierra\nhizo a los hombres\nes el Señor.\n\nTodos cantad\naquel que viene es el Señor\naquel que viene es el Señor."
+  },
+  {
+    "id": 46,
+    "titulo": "PADRENUESTRO DE LA VIDA",
+    "referencia": "6.1",
+    "contenido": "Padre Nuestro de la vida mío de ese y de aquel,\nque vive en toda criatura, y ellos así han de creer.\n\nQuisiera realzar tu nombre viviendo aquí bajo el sol,\ntu mensaje de aquel monte de pobreza paz y amor.\n\nDanos pan para vivir solo el momento presente,\nya que el día de mañana quizás aquí no me encuentre.\n\nNo mires lo que hice mal que yo no veré a mi deudor,\ny en mi camino hacia Tí que no caiga en tentación.\n\nAmen, amen, que no caiga en tentación.\n\nAmen, amen, que sea así siempre Señor."
+  },
+  {
+    "id": 47,
+    "titulo": "PADRE QUE ESTAS EN LOS CIELOS",
+    "referencia": "6.2",
+    "contenido": "Padre que estás en los cielos\nPadre de todos los hombres,\nPadre buen Dios Padre Nuestro\nalabaremos Tu Nombre.\n\nVenga a nosotros tu Reino\nSeñor Tu voluntad también aquí\ncomo en el cielo lo haremos así\nPadre Nuestro.\n\nTenemos hambre Señor\ndanos buen Dios de Tu pan\nporque quien de Tu pan come\nnunca más hambre tendrá.\n\nTodos estamos hambrientos de Ti\nporque sin Ti, porque sin Ti,\nla vida es triste tan lejos de Ti\nPadre Nuestro.\n\nY no nos dejes caer Señor\nlíbranos de los males\ny las tentaciones ayúdanos, Padre\nya que perdonamos a todos nuestros deudores"
+  },
+  {
+    "id": 48,
+    "titulo": "PADRE NUESTRO GALLEGO",
+    "referencia": "6.3",
+    "contenido": "En el mar he oído hoy Señor tu voz\nque me llamó y me pidió\nque me entregara a mis hermanos.\n\nEsa voz me transformó\nmi vida entera ya cambió\ny solo pienso ahora Señor en repetirte.\n\nPADRE NUESTRO EN TI CREEMOS\nPADRE NUETSRO TE OFRECEMOS\nPADRE NUESTRO NUESTRAS MANOS DE HERMANOS\n\nCuando vaya a otros lugares\ntendré yo que abandonar\na mi familia a mis amigos\npor seguirte.\n\nPero sé que así algún día\npodré enseñar tu verdad\na mi hermano y junto a el yo repetirte.\n\nperdónanos Tu a nosotros\nlas deudas y las traiciones.\n\nDanos Tu pan no nos dejes sin Ti\nporque sin Ti, porque sin Ti\nla vida es triste tan lejos de Ti\nPadre Nuestro."
+  },
+  {
+    "id": 49,
+    "titulo": "PADRE NUESTRO CARISMATICO",
+    "referencia": "6.4",
+    "contenido": "Padre Nuestro que estás en los cielos\nsantificado sea tu nombre.\n\nVenga a nosotros, venga tu Reino,\nhágase tu voluntad así en la tierra como en el cielo\n\nEl pan danos hoy nuestro pan de cada día.\n\nPerdona nuestras deudas así como nosotros perdonamos a nuestros deudores\nY No nos dejes caer en tentación\nY líbranos del mal.\n\nAmen, Amen."
+  },
+  {
+    "id": 50,
+    "titulo": "PADRENUESTRO(S&G)",
+    "referencia": "6.5",
+    "contenido": "Padre Nuestro tu que estás en los que aman la verdad.\nHaz que el reino que por ti se dió llegue pronto a nuestro corazón\ny el amor que tu hijo nos dejó el amor, esté ya con nosotros.\n\nY en el pan de la unidad Cristo danos tu la paz\ny olvídate de nuestro mal si olvidamos el de los demás\nno permitas que caigamos en tentación oh Señor, y ten piedad del mundo."
+  },
+  {
+    "id": 51,
+    "titulo": "PADRENUESTRO COLOMBIANO",
+    "referencia": "6.6",
+    "contenido": "Mim Lam\nPadre Nuestro que a todos amas\nRE SOL\nsin distinguir ni raza ni nación\nMim Lam\nsantificado sea tu nombre\nLA SI7ª\npor enseñarnos la unión fraternal que es tu reino de amor.\n\nMI Do#m Fa#m\nQUE TODOS TUS HIJOS RECIBAN EL PAN CADA DIA\nSI7ª MI\nEL PAN CELESTIAL QUE DELEITA Y LLENA DE AMOR\nMI Do#m Fa#m\nQUE A NADIE LE FALTE TRABAJO, ALIMENTO Y UN TECHO,\nSI7ª MI\nLOGRANDO LA PAZ LA JUSTICIA EN LA HUMANIDAD.\n\nLA  MI\n(AMEN)\n\nTu voluntad haremos siempre así en la tierra como en el cielo.\n\nHoy te pedimos que nos perdones como nosotros brindamos perdón sin poner condición."
+  },
+  {
+    "id": 52,
+    "titulo": "CORDERO",
+    "referencia": "7.1",
+    "contenido": "CORDERO, CORDERO, CORDERO, CORDERO\n\nTu que quitas el pecado del mundo\nTen Piedad\n\nTu que quitas el pecado de mundo\nTen Piedad\n\nTu que quitas el pecado de mundo\nDanos, danos la paz"
+  },
+  {
+    "id": 53,
+    "titulo": "AMA",
+    "referencia": "7.2",
+    "contenido": "Ama si quieres ser feliz\nAma y todo cambiará\nAma y así descubrirás\nla alegría de amar"
+  },
+  {
+    "id": 54,
+    "titulo": "CORDERO DE DIOS",
+    "referencia": "7.3",
+    "contenido": "Lam SOL FA MI\nCordero de Dios que quitas el pecado del mundo\nLam SOL FA MI\nCordero de Dios que quitas el pecado del mundo\nRem Lam MI Lam\nTen piedad de nosotros, de nosotros ten piedad\nRem Lam MI Lam\nTen piedad de nosotros, de nosotros ten piedad\n\nCordero de Dios que quitas el pecado del mundo\nCordero de Dios que quitas el pecado del mundo\nTen piedad de nosotros, de nosotros ten piedad\nTen piedad de nosotros, de nosotros ten piedad\n\nCordero de Dios que quitas el pecado del mundo\nCordero de Dios que quitas el pecado del mundo\nDanos la paz, danos la paz\nDanos la paz, danos la paz"
+  },
+  {
+    "id": 55,
+    "titulo": "PON TU MANO",
+    "referencia": "7.4",
+    "contenido": "DO\nPon tu mano en la mano de aquel\nSOL7ª\nque te da la mano.\n\nSOL7ª\nPon tu mano en la mano de aquel\nDO\nque te dice ven.\n\nDO7ª  FA -m\nEl será tu amigo para la eternidad.\n\nDO SOL7ª\nPon tu mano en la mano de aquel\nDO  FA-DO\nque te dice ven.\n\nPon tu mano en la mano de aquel\nque te da la mano.\n\nPon tu mano en la mano de aquel\nque te dice ven.\n\nAbriremos caminos, pero hay que luchar.\n\nPon tu mano en la mano de aquel\nque te dice ven."
+  },
+  {
+    "id": 56,
+    "titulo": "UNAMOS NUESTRAS MANOS",
+    "referencia": "7.5",
+    "contenido": "DO  Rem SOL7ª DO Lam\nUnamos nuestras manos, juntemos los dedos,\nRem SOL7ª\ncantemos al himno de paz.\n\nRem SOL7ª  DO Lam\nEsa paz verdadera, con fuerza y sincera,\nRem SOL7ª DO\nla paz del mundo, la paz.\n\nLam DO\nSi tus manos con las mías juntas van,\nLam DO\nal mundo amor podremos dar.\n\nDO  Rem SOL7ª DO Lam\nTodos juntos vayamos dando nuestras manos,\nRem SOL7ª\nlas manos que dan la paz.\n\nRem SOL7ª  DO Lam\nEsa paz verdadera, tranquila y sincera,\nRem SOL7ª DO\nbendita sea la paz."
+  },
+  {
+    "id": 57,
+    "titulo": "LAS PALOMAS",
+    "referencia": "7.6",
+    "contenido": "DO SOL\nPaz Señor, en los cielos y tierra,\nLam Mim\nPaz Señor, en las olas del mar,\nFA DO\npaz Señor, en las flores que mueven\nRE7ª SOL\nsin saberlo la brisa al pasar.\n\nTú que haces las cosas tan bellas\ny le das una vida fugaz,\npon Señor, tu mirada sobre ellas\ny devuelve a los hombres la paz.\n\nHoy he visto, Señor, en el cielo\nsuspendida en un rayo de luz\ndos palomas que alzaban el vuelo\ncon sus alas en forma de cruz.\n\nHaz que vuelvan, Señor, a la tierra\nlas palomas que huyeron ayer\ny la llama que enciende la guerra\nse confunda con la paz y el querer."
+  },
+  {
+    "id": 58,
+    "titulo": "EL SEÑOR ES MI PASTOR",
+    "referencia": "8.1",
+    "contenido": "SOL RE Mim\nEL SEÑOR ES MI PASTOR, NADA ME FALTA,\nDO  Lam RE\nEL SEÑOR ES MI PASTOR.\n\nSOL RE Mim\nEL SEÑOR ES MI PASTOR, NADA ME FALTA,\nDO  RE SOL\nEL SEÑOR ES MI PASTOR.\n\nSOL\nEn praderas reposa mi alma,\nMim Sim\nen su agua descansa mi sed.\n\nDO Sim\nÉl me guía por senderos justos\nLam RE\npor amor, por amor de su nombre.\n\nSOL\nAunque pase por valles oscuros\nMim Sim\nningún mal, ningún mal temeré\nLam Sim\nporque sé que el Señor va conmigo,\nLam DO  RE\nsu cayado sostiene mi fe.\n\nSOL\nTu preparas por mí una mesa\nMim Sim\nfrente a aquellos que buscan mi mal.\n\nDO Sim\nCon aceite me ungiste, Señor,\nLam RE\ny mi copa rebosa de ti.\n\nSOL\nGloria a Dios, Padre omnipotente,\nMim Sim\ny a su Hijo Jesús, el Señor\nDO Sim\ny al Espíritu que habita en el mundo\nLam DO  RE\npor los siglos eternos. Amén."
+  },
+  {
+    "id": 59,
+    "titulo": "AL CALOR DE LA PALABRA",
+    "referencia": "8.2",
+    "contenido": "DO-FA-DO-SOL\nDO – FA DO-FA\nCerca del hogar  que calienta mi alma\nDO Lam\nquiero yo saber lo que en comunidad\nRem7ª- SOL7ª\ntu quieres de mí.\n\nDO – FA DO-FA\nSintiendo el calor  que me da tu Palabra\nDO Lam\nquiero responder a lo que me pides\nMim – FA SOL\nsin que a nada  yo pueda temer.\n\nLam  FA DO\nA NADA, A NADA NUNCA HE DE TEMER;\nFA DO SOL\nYENDO JUNTO A TI CON TUS OJOS DE FE\nDO\nNUNCA HE DE TEMER.\n\n(FA-DO)\n\nSolo he de beber de tu fuente de agua\nsé que sólo ella será la que sacie mi hambre y mi sed.\n\nTú eres el Señor que alimenta mi alma\ny si hago mi opción por seguirte a ti\nnunca jamás yo temeré.\n\nLlegan hasta mí momentos sin calma\nque me hacen dudar de si mi camino se orienta hacia ti.\n\nComienza a faltar la paz en mi alma\ny sin esperarlo apareces tú\nhaciéndome ver que a nada he de temer."
+  },
+  {
+    "id": 60,
+    "titulo": "ID Y ENSEÑAD",
+    "referencia": "8.3",
+    "contenido": "Sois la semilla que ha de crecer.\nSois estrella que ha de brillar.\nSois levadura, sois grano de sal,\nantorcha que debe alumbrar.\n\nSois la mañana que vuelve a nacer.\nSois espiga que empieza a granar.\nSois aguijón y caricia a la vez,\ntestigos que voy a enviar.\n\nID AMIGOS POR EL MUNDO,\nANUNCIANDO EL AMOR,\nMENSAJEROS DE LA VIDA,\nDE LA PAZ Y EL PERDON.\n\nSED AMIGOS LOS TESTIGOS\nDE MI RESURRECCION.\n\nID LLEVANDO MI PRESENCIA\nCON VOSOTROS ESTOY.\n\nSois una llama que ha de encender\nresplandores de fe y caridad.\nsois los pastores que han de guiar\nal mundo por sendas de paz.\n\nSois los amigos que quise escoger,\nsois palabra que intento gritar.\nSois reino nuevo que empieza a engendrar\njusticia amor y verdad.\n\nSois fuego y savia que vine a traer\nsois la ola que agita la mar.\nLa levadura pequeña de ayer\nfermenta la masa de pan.\n\nUna ciudad no se puede esconder\nni los montes se han de ocultar.\nEn vuestras obras que buscan el bien\nlos hombres al Padre verán."
+  },
+  {
+    "id": 61,
+    "titulo": "ABRO MI SER",
+    "referencia": "8.4",
+    "contenido": "SOL Mim DO RE\nAbro mi ser y alzo mis manos y mi voz hacia Ti.\n\nSOL Sim DO\nQuiero rendirme y entregarme a tu voluntad.\n\nLam RE\nMI CORAZÓN SE ABRE A LA VOZ\nSim MI\nDE TU ESPÍRITU DE AMOR.\n\nDO RE MI\nALMA CANTA DE GOZO,\nSI7ª Mim\nMI ALMA CANTA DE GOZO\nDO Lam  RE  SOL\nMI ALMA CANTA DE GOZO EN TI SEÑOR.\n\nCalma la sed de tu palabra que hay en mí ¡oh Jesús!\nNo me abandones ni me dejes pues confío en Ti.\n\nDame la luz de tu mirada mírame ¡oh Jesús!\nCambia mi vida con tu fuerza y yo te alabaré."
+  },
+  {
+    "id": 62,
+    "titulo": "SEÑOR ENSEÑANOS A ORAR",
+    "referencia": "8.5",
+    "contenido": "LA Do#m\nSEÑOR, ENSÉÑANOS A ORAR,\nFa#m Do#m\nA HABLAR CON NUESTRO PADRE DIOS.\n\nRE Sim\nSEÑOR, ENSÉÑANOS A ORAR,\nRE MI\nA ABRIR LAS MANOS ANTE TI.\n\nLA Do#m\nOrar con limpio corazón,\nFa#m  Do#m\nque sólo cante para Ti,\nRE Sim\ncon la mirada puesta en Ti,\nRE MI\ndejando que hables, Señor.\n\nLA Do#m\nOrar buscando la verdad.\n\nFa#m  Do#m\nCerrar los ojos para ver.\n\nRE Sim\nDejarnos seducir, Señor,\nRE MI\nandar por tus huellas de paz.\n\nLA Do#m\nOrar hablándote de Ti,\nFa#m  Do#m\nde tu silencio y de tu voz,\nRE Sim\nde tu presencia que es calor,\nRE MI\ndejarnos descubrir por Ti.\n\nLA Do#m\nOrar también en sequedad,\nFa#m  Do#m\nlas manos en tu hombro, Señor,\nRE Sim\nmirarte con sinceridad:\nRE MI\naquí nos tienes, háblanos"
+  },
+  {
+    "id": 63,
+    "titulo": "AMAOs",
+    "referencia": "8.6",
+    "contenido": "DO SOL Lam\nCOMO EL PADRE ME AMÓ,\nFA  Rem  SOL -7ª\nYO OS HE AMADO.\n\nDO SOL Lam\nPERMANECED EN MI AMOR.\n\nFA SOL DO (SOL)\nPERMANECED EN MI AMOR. (bis)\nDO-MI-Lam\n\nLam DO\nSi guardáis mis palabras\nFA SOL DO\ny como hermanos os amáis,\nMim Lam\ncompartiréis con alegría,\nFA  Rem SOL\nel don de la fraternidad.\n\nLam DO\nSi os ponéis en camino,\nFA SOL DO\nsirviendo siempre la verdad,\nMim Lam\nfrutos daréis en abundancia,\nFA  Rem SOL\nmi amor se manifestará.\n\nLam DO\nNo veréis amor tan grande,\nFA SOL DO\ncomo aquél que yo os mostré.\n\nMim Lam\nYo doy la vida por vosotros,\nFA  Rem SOL\namad como yo os amé.\n\nLam DO\nSi hacéis lo que yo os mando\nFA SOL DO\ny os queréis de corazón,\nMim Lam\ncompartiréis mi pleno gozo,\nFA  Rem SOL\nde amar como Él me amó."
+  },
+  {
+    "id": 64,
+    "titulo": "TOCARE PARA TI",
+    "referencia": "8.7",
+    "contenido": "Lam Mim Lam DO SOL Lam\nDios mío yo te cantaré un canto nuevo, solo tocaré para Ti.\n\nLam Mim Lam DO SOL Lam\nDios mío yo te cantaré un canto nuevo, solo tocaré para Ti.\n\nFA SOL DO Lam FA SOL MI\nPorque Tú has inspirado mi canto, tocaré para Ti.\n\nFA SOL DO Lam  FA SOL MI\nTú has abierto mis voces calladas cantaré para Ti.\n\nLam-FA  SOL DO Lam\nYO SIENTO QUE TU CORAZON ME DA VIDA\nFA SOL MI\nYO QUIERO ESCUCHAR TU CANCION.(bis)\n\nSeñor yo no soy más que un soplo de viento para que te fijes en mí.\nY mi tiempo es como una sombra que pasa y no deja huella al marchar.\n\nPero Tú has creado mi historia, tocaré para Ti.\nY le has dado sentido a mi esfuerzo, cantaré para Ti.\n\nTú conoces bien todas mis ilusiones, sabes que te busco, Señor.\nTambién sabes que quiero hacer con mi vida, la pondré en tus manos, oh Dios.\n\nTú podrás disponer de mi tiempo, tocaré para Ti.\nY será transformado mi rostro, Cantaré para Ti."
+  },
+  {
+    "id": 65,
+    "titulo": "LA SAL Y LA LUZ",
+    "referencia": "8.8",
+    "contenido": "RE LA RE\nEl que me sigue en la vida,\nSOL RE\nsal de la tierra será\nFa#m Sim\nmas si la sal se adultera\nRE LA\nlos hombres la pisaran\n\nRE\nQUE SEA MI VIDA LA SAL,\nFa#m\nQUE SEA MI VIDA LA LUZ\nSOL RE  Fa#m Sim\nSAL QUE SALA LUZ QUE BRILLA\nRE LA RE\nSAL Y FUEGO DE JESUS.\n\nSois como la luz del mundo,\nQue a la ciudad alumbra\nesta se pone en la  cima,\ndonde el monte se encumbra\n\nQue brille asi vuestra luz,\nante los hombres del mundo\nque palpen las buenas obras,\nde lo externo a lo profundo"
+  },
+  {
+    "id": 66,
+    "titulo": "TU ESTAS",
+    "referencia": "8.9",
+    "contenido": "DO FA -m\nSueño con ventanas abiertas hacia el mar\nDO SOL -7ª\nSueño con barreras que es posible atravesar\nDO FA -m\nSueño que los hombres ya se empiezan a abrazar\nDO SOL FA- DO\nY es que todo cambia cuando Tú estás.\n\nTú estás aquí cuando vivo el amor\nTú estás aquí cuando pienso en los demás\nY entre todos juntos construiremos la unidad\nY es que todo cambia cuando Tú estás.\n\nFA  SOL DO\nTU ESTAS SI YO EXTIENDO MIS MANOS\nFA  SOL DO Lam\nTÚ ESTAS SI SONRIO SIN MIRAR A QUIEN\nFA SOL DO MI7ª Lam\nTU ESTAS SI SOY VOZ DEL QUE NO LA TIENE\nFA  SOL DO\nTU ESTAS AQUÍ SEÑOR\n\nSueño con palomas que por fin pueden volar\nSueño con poetas que respiran libertad\nSueño que los hombres viven la fraternidad\nY es que todo cambia cuando Tú estás.\n\nTú estás aquí si te doy felicidad\nTú estás aquí pues la vida Tú nos das\nY entre todos juntos la justicia vencerá\nY es que todo cambia cuando Tú estás."
+  },
+  {
+    "id": 67,
+    "titulo": "NO SE COMO ALABARTE",
+    "referencia": "8.10",
+    "contenido": "DO SOL Lam Mim\nNo sé cómo alabarte, ni que decir, Señor\nFA DO RE SOL\nconfío en tu mirada que me abre el corazón.\n\nDO SOL Lam Mim\nToma mi pobre vida que, sencilla ante ti,\nFA DO SOL DO\nquiere ser alabanza por lo que haces en mí.\n\nDO SOL  Lam Mim\nGLORIA, GLORIA A DIOS,\nFA  DO  RE SOL\nGLORIA, GLORIA A DIOS(bis)\n(FA  DO  SOL DO)---2ª Vez\n\nGracias por tu palabra, gracias por el amor,\ngracias por nuestra Madre, gracias te doy Señor.\n\nGracias por mis hermanos, gracias por el perdón,\ngracias porque nos quieres juntos en Ti, Señor.\n\nSiento en mí tu presencia, soy como tú me ves,\nbajas a mi miseria, me llenas de tu paz.\n\nIndigno de tus dones mas por tu gran amor\ntu Espíritu me llena, Gracias te doy Señor."
+  },
+  {
+    "id": 68,
+    "titulo": "TAN CERCA DE MÍ",
+    "referencia": "8.11",
+    "contenido": "LA  MI LA  RE MI\nTAN CERCA DE MI, TAN CERCA DE MI -7ª LA\nQUE HASTA LO PUEDO TOCAR.\n\nMI LA\nJESUS ESTA AQUI.\n\nLA MI LA\nMíralo paseando entre la gente\nRE MI LA\no caminando entre la multitud.\n\nRE MI  LA Fa#m\nMuchos no lo ven porque ciegos van\nRE MI\nocupados sin saber mirar.\n\nLe hablaré sin miedo al oído\nle contaré las cosas que hay en mí\ny que solo a Él le interesarán,\nÉl es más que un mito para mí.\n\nÉl está aquí todo presente\ny a todos nos promete dar su amor,\nya que solo Él nos puede cambiar.\nEn Tí confiamos, ¡Oh Señor!.\n\nMiro a los hombres, mis hermanos\ny veo que Jesús está ya aquí,\ny con ellos yo quiero compartir\ntodo lo que tengo y lo que soy."
+  },
+  {
+    "id": 69,
+    "titulo": "LOS MISERICORDIOSOS",
+    "referencia": "8.12",
+    "contenido": "DO FA DO FA SOL DO\nTengo miseria de no tener, soy miserable en la cumbre,\nLam DO FA  SOL -7ª DO\npor querer ser quien no soy, no soy ni siquiera yo.\n\nDO  FA DO FA SOL DO\nMi vacío me hace comprender a quienes no me entienden\nLam FA DO SOL -7ª DO\ny a aquellos que me maltratan sé que yo no soy mejor.\n\nFA SOL  DO MI7ª Lam\nESPERO SER YO ALGUN DIA, EN MI MISERIA YO ESPERO\nFA SOL\nQUE ALGO NAZCA DE MI NADA,\nFA SOL\nAUNQUE SE QUE NADA SOY.\n\nFA SOL\nALGUIEN REPITE EN MI MENTE\nDO MI7ª Lam\nQUE EN MI MISERIA ME AMA\nFA SOL FA  SOL DO\nCON MISERICORDIA ME QUIERE Y ESE ALGUIEN ES MI DIOS.\n\nSi me sintiese herido o tratado con violencia\nnunca quisiera sentirme lleno de odio y rencor.\n\nHa de llenarse mi alma de infinita misericordia\nhay alguien que me lo pide y ese alguien es mi Dios."
+  },
+  {
+    "id": 70,
+    "titulo": "EL LOCO",
+    "referencia": "8.13",
+    "contenido": "Lam FA\nYo quisiera a veces comprender al mundo,\nSOL DO MI7ª\nes imposible, me siento incapaz.\n\nLam FA\nDicen que es locura tener ideales,\nSOL DO MI7ª\nque es mejor vivir cantando y sin pensar.\n\nLA Fa#m\nSEÑOR YO QUIERO SER UN LOCO\nRE MI LA\nPERO MI LOCURA SEAS TU\nFa#m\nYO QUIERO SER LA HOZ QUE CORTE ESTE TRIGO\nRE MI\nPARA CONVERTIRLO EN ALIMENTO DE AMOR. (bis)\n\nMuchas son las bocas, pocas las semillas\npara alimentar  con el trigo de tu amor.\n\nYo quisiera Cristo seguirte y amarte\nque es mejor vivir  contigo hasta el final."
+  },
+  {
+    "id": 71,
+    "titulo": "TOMADO DE LA MANO",
+    "referencia": "8.14",
+    "contenido": "TOMADO DE LA MANO CON JESUS YO VOY\nLE SIGO COMO OVEJA QUE ENCONTRO AL PASTOR\nTOMADO DE LA MANO CON JESUS YO VOY\nA DONDE EL VA.\n\nSi Jesús me dice amigo\ndeja todo y ven conmigo\ndonde todo es más hermoso\ny más feliz.\n\nSi Jesús me dice amigo\ndeja todo y ven conmigo\nyo mi mano pondré en la suya\ne iré con él.\n\nYo te llevaré amigo\na un lugar conmigo\ndonde el sol y las estrellas\naún brillan más.\n\nYo te llevaré amigo\na un lugar conmigo\ndonde todo es más hermoso\ny más feliz."
+  },
+  {
+    "id": 72,
+    "titulo": "VEN ESPIRITU DE DIOS",
+    "referencia": "8.15",
+    "contenido": "Lam DO SOL\nVEN, ESPÍRITU DE DIOS, SOBRE MÍ.\n\nRem Lam\nME ABRO A TU PRESENCIA,\nFA DO SOL  MI\nCAMBIARÁS MI CORAZÓN. (BIS)\nFA DO-SOL-DO  MI-Lam\n\nSOL Rem Lam\nToca mi debilidad, toma todo lo que soy;\nFA MI Lam  RE-FA-SOL  Lam\npongo mi vida en tus manos  y  mi  fe.\n\nSOL  Rem Lam\nPoco a poco llegarás a inundarme de tu luz;\nFA MI Lam  RE-FA-SOL  MI\nTú cambiarás mi pasado.  ¡Can-ta-ré!\n\nQuiero ser signo de paz, quiero compartir mi ser.\nYo necesito tu fuerza, tu valor.\n\nQuiero proclamarte a Ti, ser testigo de tu amor.\nEntra y transforma mi vida. ¡Ven a mí!"
+  },
+  {
+    "id": 73,
+    "titulo": "PAN Y VINO",
+    "referencia": "8.16",
+    "contenido": "DO Lam Rem SOL7ª\nPan y vino son tu rostro  que hoy volvemos a tocar.\n\nDO Lam Rem SOL7ª\nTu mirada que curaba de nuevo nos sanará.\n\nFA Lam Rem SOL7ª\nNo merezco que Tú vengas a mi pobreza tocar.\n\nFA Lam Rem SOL7ª\nMás yo quiero que en mi vida,  Jesús, Tú puedas estar.\n\nDO Lam  Rem SOL7ª\nJESÚS, VEN TÚ,  ENTRA EN MI CASA DE NUEVO.\n\nDO Lam  Rem SOL7ª\nJESÚS, VEN TÚ,  PARA ENCENDER NUESTRO FUEGO.\n\nFA -Lam  FA -Lam\nJESÚS,  JESÚS.\n\nEs tu vino nuestra sangre que no nos deja morir.\nPan y vida para todos rotos para compartir.\n\nTe compartes con nosotros en la pobreza de un pan.\nCambiaremos nuestro mundo para que puedas estar.\n\nComo un ciego yo me atrevo a acercarme un poco a Ti.\nTú conoces mis traiciones, las veces que me perdí.\n\nMás Tú sabes, que te quiero y que si vienes Jesús,\ntodo es fiesta, todo es vida porque me has salvado Tú."
+  },
+  {
+    "id": 74,
+    "titulo": "DIGO QUE JESUS EL NAZARENO",
+    "referencia": "8.17",
+    "contenido": "DO FA SOL\nDigo que Jesús, el Nazareno,\nDO FA SOL\nque perdonaba y curó a los enfermos\nDO Mim FA SOL\ny por la verdad fue azotado y fue muerto:\n\nDO Mim FA SOL\nRESUCITÓ Y ES SEÑOR DE TODO LO CREADO.\n\nDO Mim FA\nBAJO SUS PIES ESTÁN CIELO, TIERRA\nSOL\nY LOS ABISMOS.\n\nFA SOL DO Lam\nÉL VIVE HOY, ES LA FUERZA DE SU PUEBLO\nRem SOL7ª DO\nY TAMBIÉN ES MI SEÑOR.\n\nId y predicad la gran noticia:\n«Los ciegos ven, el triste canta de alegría.\nEl amor de Dios rompe todas las murallas».\n\nDios es Padre bueno que te ama;\nsu Espíritu da fuerza y te acompaña;\nJesús, Dios y hombre, es el Cristo, el Liberador."
+  },
+  {
+    "id": 75,
+    "titulo": "EL SEÑOR DIOS NOS AMÓ",
+    "referencia": "8.18",
+    "contenido": "DO FA DO\nEl Señor Dios nos amó como nadie amó jamás.\n\nFA SOL\nÉl nos guía como estrella cuando no existe la luz.\n\nDO FA DO\nÉl nos da todo su amor mientras la fracción del pan.\n\nSOL FA-DO\nEs el pan de la amistad, el pan de Dios.\n\nDO FA DO\nES MI CUERPO TOMAD Y COMED,\nFA SOL\nESTA ES MI SANGRE TOMAD Y BEBED.\n\nDO FA DO\nPues YO SOY LA VIDA, YO SOY EL AMOR.\n\nSOL FA-DO\nOH SEÑOR, CONDÚCENOS HASTA TU AMOR.\n\nEl Señor Dios nos amó como nadie amó jamás.\nSus paisanos le creían hijo de un trabajador.\nComo todos, El también ganó el pan con su sudor\ny conoce la fatiga y el dolor.\n\nEl Señor Dios nos amó como nadie amó jamás.\nEl reúne a los hombres y les da a vivir su amor.\nLos cristianos todos ya miembros de su cuerpo son,\nnadie puede separarlos de su amor"
+  },
+  {
+    "id": 76,
+    "titulo": "EL ALELUYA DE MI DIOS",
+    "referencia": "8.19",
+    "contenido": "DO FA SOL DO\n¡Aleluya!, fin de un caminar\nFA DO RE SOL\nque comienza en un pobre portal,\nFA SOL  FA SOL DO\ny que arrastra pasos de soledad\nSOL -7ª DO\ne incomprensión, de un gran dudar.\n\nRE SOL  RE  SOL\nEntonces sí, hay ¡aleluya!\n\nFA  DO  FA-DO\n¡Aleluya!, ¡Aleluya!,\n\nFA DO\nNO HAY ¡ALELUYA! SI NO HAY CAMBIO EN MI SER,\nFA SOL\nNO HAY ¡ALELUYA! SI NO HAY MUERTE EN MI YO,\nLam FA DO\nNO HAY ¡ALELUYA! SIN CRUZ, CLAVO Y LANZADA.\n\nSOL  FA DO\nENTONCES SÍ,  HAY ¡ALELUYA!\n\nFA  DO SOL\n¡ALELUYA!, EL ALELUYA DE MI DIOS.\n\nCruz y pesebre, dos aleluyas,\nfin y comienzo de un Dios que en tierra está.\nÉl plantó su tienda entre nosotros,\nquiso perder su dignidad, es la razón que da el ¡aleluya!\n\n¡Aleluya!, ¡Aleluya!,"
+  },
+  {
+    "id": 77,
+    "titulo": "YO PENSABA",
+    "referencia": "8.20",
+    "contenido": "RE SOL RE\nYo pensaba que el hombre era grande por su poder,\nLA RE\ngrande por su saber, grande por su valor.\n\nRE SOL RE\nYo pensaba que el hombre era grande y me equivoqué,\nLA RE\npues grande sólo es Dios.\n\nSOL\nSUBE HASTA EL CIELO Y LO VERÁS,\nRE\nQUE PEQUEÑITO EL MUNDO ES,\nLA RE\nSUBE HASTA EL CIELO Y LO VERÁS;\nSOL\nCOMO UN JUGUETE DE CRISTAL,\nRE\nQUE CON CARIÑO HAY QUE CUIDAR:\nLA RE\nSUBE HASTA EL CIELO Y LO VERÁS.\n\nMuchas veces el hombre buscaba ser como Dios,\nquería ser como Dios, soñaba ser como Dios.\n\nMuchas veces el hombre soñaba y se despertó,\npues grande sólo es Dios.\n\nCaminando por la vida hay veces que encontrarás\ncosas que extrañarás, hombres que admirarás.\n\nCaminando por la vida hay veces que pensarás\nque el hombre es como Dios"
+  },
+  {
+    "id": 78,
+    "titulo": "SOMOS TESTIGOS",
+    "referencia": "8.21",
+    "contenido": "LA MI Fa#m RE\nEl Señor resucitó venciendo a la muerte en la cruz.\n\nDO#7ª Fa#m  RE MI\nNuestra esperanza está en El.  El es nuestro Salvador.\n\nLA MI Fa#m RE\nAtrás quedó el temor, la duda y la poca fe,\nDO#7ª Fa#m RE MI\nhagamos ya realidad un Reino nuevo de Amor.\n\nLA MI DO#7ª Fa#m\nSOMOS TESTIGOS DE LA RESURRECCION.\n\nRE LA\nEL ESTA AQUI, ESTA PRESENTE, ES VIDA Y ES VERDAD.\n\nSOMOS TESTIGOS DE LA RESURRECCION.\n\nEL ESTA AQUI SU ESPIRITU NOS MUEVE PARA AMAR.\n\nTú nos reúnes Señor, en torno al cáliz y al pan,\ny nos invitas a ser la luz del mundo y la sal.\n\nDonde haya odio y dolor, haremos presente tu paz.\nEn cada gesto de amor María Madre estará."
+  },
+  {
+    "id": 79,
+    "titulo": "JESUS QUIEN ERES TÚ",
+    "referencia": "8.22",
+    "contenido": "DO Lam\nJesús, ¿quién eres Tú?\n\nFA SOL\nTan pobre al nacer, que mueres en cruz.\n\nDO Lam\nTú das paz al ladrón\nFA SOL\nincrepas al fiel, prodigas perdón.\n\nFA DO\nTú, siendo Creador,\nRE SOL\nme quieres a mí que soy pecador.\n\nFA DO\nTú dueño y Señor,\nRE SOL\nme pides a mí salvar la creación.\n\nJesús, ya sé de Ti algo de tu ser, qué quieres de mí.\nMas yo quiero saber qué rumbo seguir qué debo de hacer\nDi qué he de esperar, qué senda elegir, porqué he de luchar.\nTú ayúdame, pues no quiero más dudar ni temer.\n\nDO SOL\nCRISTO ES SAL EN LA VIDA\nFA\nLUZ EN TINIEBLAS\nRE SOL\nES TODO AMOR.\n\nFA DO\nEs fe al dudar,\nRE SOL\nespera al crecer, amor al vivir.\n\nFA DO\nEs paz al luchar,\nRE SOL\nbondad al vencer y gozo al servir.\n\nDO SOL\nCRISTO ES TRIGO MOLIDO,\nFA\nUVA PISADA,\nRE SOL\nESE ES JESUS.(2)"
+  },
+  {
+    "id": 80,
+    "titulo": "EL POETA",
+    "referencia": "8.23",
+    "contenido": "RE Sim\nHabía soñado vivir tranquilo\nSOL LA\ncomodamente sin los demás.\n\nRE Sim\nHabía soñado que yo reinaba\nSOL LA\nsobre la gente de la ciudad.\n\nRE Fa#m Sim\nPERO TU HAS VENIDO Y EN MI TIERRA\nSOL LA\nHAS SEMBRADO SEMILLA NUEVA.\n\nRE Fa#m Sim\nPERO TU HAS VENIDO Y HAS CAMBIADO\nSOL LA MI\nCAMINO Y MI MISERIA\n\nHabía soñado ser un poeta\nsiempre admirado por los demás.\n\nHabía soñado con ver mi nombre\nen los carteles de la ciudad.\n\nHabía soñado estar siempre solo\nsin nadie a mi alrededor.\n\nEn aquel tiempo quería una guerra\nen la que fuese yo el vencedor."
+  },
+  {
+    "id": 81,
+    "titulo": "JESUS RESUCITA HOY",
+    "referencia": "8.24",
+    "contenido": "MI SI7ª LA  MI\nMirad, Jesús resucita hoy.\n\nLA SI7ª MI\nMirad, la tumba está vacía.\n\nSI7ª Do#m\nEl Padre ha pensado en El.\n\nLA\nDe los hombres es Señor,\nFa#m SI7ª\nde la vida, Salvador.\n\nMI SI7ª LA  MI\nMirad, Jesús resucita hoy.\n\nLA SI7ª MI\nMirad, vive a nuestro lado.\n\nSI7ª Do#m\nLa muerte no tiene poder.\n\nLA Fa#m\nProclamad por la fe\nSI7ª\nque está vivo\ny somos libres porque....\n\nMI LA\nEL RESUCITA HOY\nFa#m SI7ª MI SI7ª\nEL VIVE ENTRE NOSOTROS.\n\nMI LA -m\nES CRISTO EL SEÑOR\nMI RE SI7ª\nALELUYA, ALELUYA.\n\nMirad, Jesús resucita hoy.\nNos da la paz con su palabra..\nEl gozo vuelve al corazón.\nCon su Espíritu de amor nuestra vida cambiará.\n\nMirad, Jesús resucita hoy.\nSu amor no nos dejará.\nSu fuerza nos empujará.\nEl será guía y luz, esperanza y fortaleza\nporque...."
+  },
+  {
+    "id": 82,
+    "titulo": "SI YO CONFIO EN EL SEÑOR",
+    "referencia": "8.25",
+    "contenido": "Si yo confío en el Señor, no me va a fallar;\npuedo esperar en el Señor, El me ayudará.\n\nSi el sol llegara a oscurecer y no brillara más\nyo igual confío en el Señor, no me va a fallar.\n\nNO ME VA A FALLAR, PUEDO DESCANSAR.\nUNA MANSION CRISTO ME DARA.\n\nSI EL SOL LLEGARA A OSCURECER Y NO BRILLARA MAS\nYO IGUAL CONFIÓ EN EL SEÑOR, NO ME VA A FALLAR.\n\nSi Dios me brinda su amistad, no me va a fallar.\nPuedo creer en el Señor, El me ayudará.\n\nSi el viento llega a enmudecer dejando de soplar\nyo igual confío en el Señor, no me va a fallar."
+  },
+  {
+    "id": 83,
+    "titulo": "MI DIOS ESTA VIVO",
+    "referencia": "8.26",
+    "contenido": "Mi Dios está vivo, Él no está muerto.\nMi Dios está vivo en mi corazón.\n\nMi Dios está vivo, ha resucitado,\nlo siento en mis manos, lo siento en mis pies,\nlo siento en mi alma y en mi ser.\n\nOH, OH, OH, OH, HAY QUE NACER DEL AGUA.\nOH, OH, OH, OH, HAY QUE NACER DEL ESPÍRITU DE DIOS.\n\n- OH, OH, OH, OH, HAY QUE NACER DEL AGUA Y DEL ESPÍRITU DE DIOS\nHAY QUE NACER DEL SEÑOR.(BIS)\n\n/ PREPÁRATE PARA QUE SIENTAS/(3)\nEL ESPÍRITU DE DIOS.\n\n/ DÉJALO QUE SE MUEVA/(3)\nDENTRO DE TU CORAZÓN.\n\nMi Dios está vivo, Él no está muerto.\nMi Dios está vivo en mi corazón.\n\nLo veo a mi lado nunca me abandona,\nlo veo por el aire, lo veo junto al mar,\nlo veo por el monte caminar."
+  },
+  {
+    "id": 84,
+    "titulo": "EL AMOR ES NUESTRO CANTO",
+    "referencia": "8.27",
+    "contenido": "El amor es la palabra limpia que hace vivir,\nes el fruto de la tierra buena y es sufrir.\n\nEs decirle al hermano pobre:\"solo no estás\".\nNo dejes que pase tu tiempo sin más.\n\nEL AMOR ES NUESTRO CANTO A LA VIDA QUE SE DA\nY QUE ESPERA UN AMANECER EN LA VERDAD.\n\nEl amor es el regalo eterno que nos da Dios.\nEs tener un corazón abierto y es perdón.\n\nEs la fe y la esperanza cierta del más allá.\nNo dejes que pase tu tiempo sin más.\n\nEl amor es un camino largo y sin final.\nEs la luz que inunda sombras en la oscuridad.\n\nEs la vida que nos brinda un tiempo de oportunidad.\nNo dejes que pase tu tiempo sin más."
+  },
+  {
+    "id": 85,
+    "titulo": "VALE LA PENA SEGUIR",
+    "referencia": "8.28",
+    "contenido": "SOL DO SOL  DO SOL\nAunque todo esto termine y no nos veamos más,\nMim DO Lam RE\nla esperanza aquí nacida nunca, nunca morirá.\n\nMim Sim  DO  RE SOL\nAunque grises sean los días o tengamos vendaval,\nMim DO Lam RE\nni los truenos ni los rayos a la esperanza matarán.\n\nSOL DO SOL DO RE\nUNOS TIENEN LA MIRADA OTROS HACEN DE MOTOR\nSOL DO  SOL  DO  SOL RE  SOL\nY A NOSOTROS SE NOS PIDE QUE SEAMOS CORAZON.\n\nSOL DO SOL DO RE\nVALE LA PENA SEGUIR VALE LA PENA LUCHAR\nSOL DO  SOL  DO SOL RE  SOL\nSI NO PARAN NUESTRAS VIDAS LA ESPERANZA NO MORIRA.\n\nSOL DO SOL  DO SOL\nAunque viva en nuestra mente la pena de un pobre amor\nMim DO Lam RE\nlucharemos cada instante porque siempre sea mejor.\n\nMim Sim DO  RE SOL\nComo un hijo ama a su madre o a la tierra ama la flor,\nMim DO Lam RE\nhabrá esperanza en nosotros si vivimos el amor."
+  },
+  {
+    "id": 86,
+    "titulo": "¿A DONDE VAS?",
+    "referencia": "8.41",
+    "contenido": "Lam SOL\n¿A dónde vas?, ¿A dónde vas?\n\nLam SOL -  Mim\nllévame junto a ti,\nLam SOL -  Mim\ndentro de mi ser tengo frío\nLam SOL\n¿A dónde vas?\n\nLA SOL\nMás allá de la eternidad, de la eternidad\nLA SOL\ndonde no pueda ver con mi mente Señor,\nLA  SOL\nllévame tú\nLA\ntomaré la ruta contigo\nSOL\nbuscaré mi paz, buscaré mi paz por los senderos en que tú caminarás, quiero caminar\n\nY por todos los senderos nos iremos caminando\ncomo podamos y cuando pueda ver la luz\ndéjame que yo te cante así: ¡Gracias Señor!\n\nCogeré tu mano me alegraré que estés allí\na mi lado(a tu lado)(tres veces)"
+  },
+  {
+    "id": 87,
+    "titulo": "GRACIAS A TI",
+    "referencia": "9.1",
+    "contenido": "INTRO  DO  SOL  DO SOL\n\nDO SOL Lam\nHoy es un día mejor, el cielo tiene color\nFA SOL DO\nen el aire se respira el amor\nSOL Lam\nhay una nueva ilusión que llena mi corazón\nFA SOL Rem\nen mi mundo se ha borrado el temor\nSOL Rem SOL\nte entrego en esta canción las palabras de mi corazón\n\nDO SOL Lam\nHOY QUIERO DARTE LAS GRACIAS POR DARME ESPERANZA\nFA SOL DO\nY PODER CAMINAR JUNTO A TI\nSOL Lam\nY POR AYUDAR CON EL ALMA Y BRINDARME CONFIANZA\nFA SOL Rem\nPOR DARME FUERZAS PARA SEGUIR\nSOL Rem SOL\nQUE MÁS TE PUEDO DECIR HOY PUEDO SOÑAR Y REÍR\nDO SOL Lam FA\nGRACIAS A TI, A TI, A TI(X4)\n\nDO SOL Lam\nMe has enseñado a vivir a no olvidar ser feliz\nFA SOL Rem\na cada día el amor compartir\nSOL Rem SOL\nte entrego en esta canción las palabras de mi corazón\n\nDO SOL Lam\nHOY QUIERO DARTE LAS GRACIAS POR DARME ESPERANZA\nFA SOL DO\nY PODER CAMINAR JUNTO A TI\nSOL Lam\nY POR AYUDAR CON EL ALMA Y BRINDARME CONFIANZA\nFA SOL Rem\nPOR DARME FUERZAS PARA SEGUIR\nSOL Rem SOL\nQUE MÁS TE PUEDO DECIR HOY PUEDO SOÑAR Y REÍR\nDO SOL Lam FA\nGRACIAS A TI, A TI, A TI(X4)"
+  },
+  {
+    "id": 88,
+    "titulo": "MADRE",
+    "referencia": "10.5",
+    "contenido": "Junto a ti María como un niño quiero estar\nTómame en tus brazos guíame en mi caminar\nQuiero que me eduques que me enseñes a rezar\nHazme transparente lléname de paz\n\nMADRE, MADRE, MADRE, MADRE\nMADRE, MADRE, MADRE, MADRE.\n\nGracias Madre mía por llevarnos a Jesús\nHaznos tan humildes tan sencillos como tú\nQuiero que me eduques que me enseñes a rezar\nHazme transparente lléname de paz"
+  },
+  {
+    "id": 89,
+    "titulo": "TE BUSCO",
+    "referencia": "10.17",
+    "contenido": "Te busco entre las flores de un naranjo\nen la sonrisa de un muchacho,\nen esa casa sin tejado.\n\nTe busco entre las manos que se unen\nen una rosa y su perfume\nen esa cara de amistad.\n\nALLI DONDE SE UNEN AGUA Y NUBES\nDONDE EL SOL NO DEJA DE RELUCIR.\n\nALLI ESTA MI MADRE BENDITA\nCOMO LAGRIMA DIVINA\nLA GRANDEZA DEL SEÑOR.\n\nTambién en la casa de un pobre\nsiembra María la alegría,\nsiembra el fruto de la Fe.\n\nTe busco en la mirada de ese niño\nen la fuerza que da un amigo,\nen ese ven y sígueme.\n\nTe busco entre la gente con rutina,\nen el anciano que termina,\nen ese día gris de hoy."
+  },
+  {
+    "id": 90,
+    "titulo": "CANTEN CON GOZO",
+    "referencia": "12.1",
+    "contenido": "RE Sim\nCANTEN CON GOZO,\nLA Sim\nCON ILUSIÓN\nSOL LA RE\nYA SE ACERCA EL SEÑOR.\n\nRE Sim\nLes anunciamos el gozo de Adviento\nRE Sim  LA RE\ncon la primera llama ardiendo;\nRE Sim  LA RE\nse acerca ya el tiempo de la salvación,\nRE Sim  LA RE LA7\ndispongamos, la senda al Señor.\n\nLes anunciamos el gozo de Adviento\ncon la segunda llama ardiendo;\nel primer ejemplo Cristo nos dio,\nvivir unidos en el amor.\n\nLes anunciamos el gozo de Adviento\ncon la tercera llama ardiendo;\nel mundo que vive en la oscuridad,\nbrille con esta claridad.\n\nLes anunciamos el gozo de Adviento\nmiren la cuarta llama ardiendo;\nel Señor está cerca, fuera el temor,\nestar a punto es lo mejor."
+  },
+  {
+    "id": 91,
+    "titulo": "TODA LA TIERRA",
+    "referencia": "12.2",
+    "contenido": "LA Fa#m RE MI\nTODA LA TIERRA ESPERA AL SALVADOR;\nLA Fa#m RE MI\nY EL SURCO ABIERTO A LA OBRA DEL SEÑOR:\nFa#m Do#m RE LA\nES EL MUNDO QUE LUCHA POR LA LIBERTAD\nFa#m Do#m RE  MI\nLA RECLAMA JUSTICIA Y BUSCA LA VERDAD.\n\nLA Fa#m  RE MI\nDice el profeta al pueblo de Israel:\nLA Fa#m RE MI\n“de madre virgen ya viene el Emmanuel”\n\nFa#m  Do#m RE LA\nSerá “Dios con nosotros”, hermano será;\nFa#m  Do#m  RE MI  LA\nCon Él la esperanza al mundo volverá.\n\nMontes y valles habrá que preparar,\nNuevos caminos tendremos que trazar:\nEl señor está cerca, hay que irlo a encontrar\nY todas las puertas abrir de par en par.\n\nEn un pesebre Jesús apareció,\nPero en el mundo es donde nace hoy;\nVive en nuestros hermanos, con ellos está\nY vuelve de nuevo a darnos libertad."
+  },
+  {
+    "id": 92,
+    "titulo": "LA VIRGEN SUEÑA",
+    "referencia": "12.3",
+    "contenido": "DO FA DO SOL7ª\nLa Virgen sueña caminos, está a la espera;\nFA DO SOL7ª  DO\nla Virgen sabe que el niño, está muy cerca.\n\nSOL7ª\nDe Nazaret a Belén hay una senda;\nFA DO SOL7ª DO\npor ella van los que creen, en las promesas.\n\nDO\nLOS QUE SOÑÁIS Y ESPERÁIS,\nSOL7ª\nLA BUENA NUEVA,\nFA DO\nABRID LAS PUERTAS AL NIÑO,\nSOL7ª DO\nQUE ESTÁ MUY CERCA.\n\nFA DO\nEL SEÑOR, CERCA ESTÁ;\nSOL7ª DO\nÉL VIENE CON LA PAZ\nFA DO\nEL SEÑOR CERCA ESTÁ;\nSOL7ª DO\nÉL TRAE LA VERDAD.\n\nEn estos días del año, el pueblo espera\nque venga pronto el Mesías, a nuestra tierra.\n\nEn la ciudad de Belén, llama a las puertas,\npregunta en las posadas, y no hay respuesta."
+  }
+]
